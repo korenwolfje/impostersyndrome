@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ImposterSyndro.me</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on ImposterSyndro.me</description>
+    <generator>Hugo -- 0.132.1</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 15 Aug 2024 15:57:14 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Imposter&#39;s Dilemma</title>
+      <link>http://localhost:1313/articles/the-imposters-dilemma/</link>
+      <pubDate>Thu, 15 Aug 2024 15:57:14 +0200</pubDate>
+      <guid>http://localhost:1313/articles/the-imposters-dilemma/</guid>
+      <description>This might be the tenth time I&amp;rsquo;ve tried creating ImposterSyndro.me. But this so far is the time that has stuck. This is the time these words actually make it to a server on the Internet.
+And, yet, I am still caught up in my imposter ways. For one, while writing this, it occurred to me: &amp;ldquo;Did I spell the name of my own domain incorrectly?&amp;rdquo; I thought this as I stared at the e in imposter, wondering if I had made an egregious error.</description>
+    </item>
+  </channel>
+</rss>
